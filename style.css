@@ -1,0 +1,29 @@
+body
+{
+    background-image: url(https://texviewer.herokuapp.com/optimizers/temp/de2c2e8e372f1a1f4fe704b71e6609d1/3-optimized.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover
+background-size 100% 10%;}
+
+.sobremim {
+    background-image: url(https://texviewer.herokuapp.com/optimizers/temp/de2c2e8e372f1a1f4fe704b71e6609d1/2-optimized.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#perfil:hover {opacity: 0;
+    transition: opacity .25s linear;
+}
+h1 {
+    opacity: 0.85;   
+    filter: drop-shadow(10px 10px 10px gray
+    );
+
+}
+#wpp:hover{filter: brightness(0);}
+#twitter:hover{filter: brightness(0);transition: filter 0.15s linear}
+#insta:hover{filter: brightness(0);transition: filter 0.15s linear}
+#linkedin:hover{filter: brightness(0);transition: filter 0.15s linear}
+#email:hover{filter: brightness(0); transition: filter 0.15s linear}
