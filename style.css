@@ -1,13 +1,14 @@
 body
 {
-    background-image: url(https://texviewer.herokuapp.com/optimizers/temp/de2c2e8e372f1a1f4fe704b71e6609d1/3-optimized.png);
+    background-color: whitesmoke;
+    background-image: url("C:\Users\wwwma\OneDrive\Documentos\HTML\IMAGE\wallpaper.png");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover
 background-size 100% 10%;}
 
 .sobremim {
-    background-image: url(https://texviewer.herokuapp.com/optimizers/temp/de2c2e8e372f1a1f4fe704b71e6609d1/2-optimized.png);
+    background-image: url("C:\Users\wwwma\OneDrive\Documentos\HTML\IMAGE\sobremim.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
