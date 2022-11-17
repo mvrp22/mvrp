@@ -1,14 +1,14 @@
 body
 {
     background-color: whitesmoke;
-    background-image: url("C:\Users\wwwma\OneDrive\Documentos\HTML\IMAGE\wallpaper.png");
+    background-image: url("wallpaper.png");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover
 background-size 100% 10%;}
 
 .sobremim {
-    background-image: url("C:\Users\wwwma\OneDrive\Documentos\HTML\IMAGE\sobremim.png");
+    background-image: url("sobremim.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
